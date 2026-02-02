@@ -1,0 +1,11 @@
+__pycache__/
+.env
+.venv
+.git
+.gitignore
+*.log
+
+faiss_index/
+*.db
+*.db-shm
+*.db-wal
